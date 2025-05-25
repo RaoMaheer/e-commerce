@@ -76,8 +76,8 @@ button{
 
 @media (max-width: 844px) {
     .box{
-        flex: 1 1 40%;
-        gap: 5px;
+        flex: 1 100%;
+        padding: 0px 10px;
     }
 }
 
